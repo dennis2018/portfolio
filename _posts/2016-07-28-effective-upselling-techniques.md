@@ -1,9 +1,10 @@
 ---
-date: 2016-07-28
 title: Effective upselling techniques
+date: 2016-07-28 00:00:00 Z
 categories:
-  - sales
-  - tips
+- hydra-jekyll-template-master
+- sales
+- tips
 author_staff_member: betty
 ---
 

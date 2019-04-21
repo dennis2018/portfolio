@@ -1,8 +1,9 @@
 ---
-date: 2016-07-20
 title: The process for direct sales
+date: 2016-07-20 00:00:00 Z
 categories:
-  - sales
+- hydra-jekyll-template-master
+- sales
 author_staff_member: anna
 ---
 
